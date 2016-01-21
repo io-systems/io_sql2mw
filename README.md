@@ -8,6 +8,7 @@ All options are set in the command line.
 * --password= : User password
 * --base= : Database's name
 * --table= : Table's name  
+
 ## Example
 ```bash
 $ node sql2mw.js --host=localhost --user=username --password=password --base=mydatabase
