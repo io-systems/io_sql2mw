@@ -1,0 +1,26 @@
+{
+  "name": "io_sql2mw",
+  "version": "1.0.0",
+  "description": "Converts MariaDB \"DESCRIBE TABLE;\" result into a MediaWiki table",
+  "main": "sql2mw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jledun/io_sql2mw.git"
+  },
+  "keywords": [
+    "MariaDB",
+    "Mediawiki"
+  ],
+  "author": "Julien Ledun <j.ledun@iosystems.fr> (http://www.iosystems.fr)",
+  "license": "GPL-3-0",
+  "bugs": {
+    "url": "https://github.com/jledun/io_sql2mw/issues"
+  },
+  "homepage": "https://github.com/jledun/io_sql2mw#readme",
+  "dependencies": {
+    "mariasql": "^0.2.5"
+  }
+}
