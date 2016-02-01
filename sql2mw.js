@@ -59,7 +59,7 @@ for ( var x = 2 ; x < options.length ; x++) {
 }
 
 for (x in connection) {
-       if (connection[x] == "") return console.log("Miss one parameter");
+       if (connection[x] == "") return console.log("Missed one parameter");
 }
 
 /** DATABASE CLIENT CREATION */
