@@ -1,6 +1,6 @@
 {
   "name": "io_sql2mw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts MariaDB \"DESCRIBE TABLE;\" result into a MediaWiki table",
   "main": "sql2mw.js",
   "scripts": {
